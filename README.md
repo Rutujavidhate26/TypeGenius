@@ -25,6 +25,8 @@ TypeGenius is a full-stack web application designed to help users improve their 
 ### Backend
 
 * Java
+* Hibernate
+* JPA
 * Spring Boot
 * REST APIs
 
